@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">my Team Page</h1>
+<h1 align="center">Interior consultant</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404pageamek.netlify.app/">
+    <a href="interiorconsultantamek.netlify.app">
       Demo
     </a>
    <span> | <span>
@@ -28,7 +28,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-      HTML and CSS
+      HTML and TailwindCss
 
       
 
@@ -41,7 +41,7 @@
 
 
 - Where can I see your demo?
-      on https://404pageamek.netlify.app
+      on interiorconsultantamek.netlify.app
 - What was your experience?
       it was fun
 - What have you learned/improved? 
@@ -53,8 +53,7 @@
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [how to import font to css properly](https://stackoverflow.com/questions/11737168/how-to-import-fonts-in-css)
-- [head & button tag html](w3schools.com)
+- [how to make hamburger button](https://www.youtube.com/watch?v=1iS0r238G4g&t=476s)
 
 ## Contact
 
