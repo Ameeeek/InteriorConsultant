@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">my Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404pageamek.netlify.app/">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+   <span> | <span>
+      <a href="https://devchallenges.io/solutions/tGqojK5op3npG74BeB0T">
+         solution
+      </a>
+   <span> | <span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -28,47 +28,35 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+      HTML and CSS
+
+      
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img src='screely-1632635310066.png'>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
 
 - Where can I see your demo?
+      on https://404pageamek.netlify.app
 - What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+      it was fun
+- What have you learned/improved? 
+      i improve my copy and paste skills!
+- Your wisdom : "learn to copy and paste a block of code properly." 
 
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [how to import font to css properly](https://stackoverflow.com/questions/11737168/how-to-import-fonts-in-css)
+- [head & button tag html](w3schools.com)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Twitter [@Ameeeekk](https://twitter.com/Ameeeekk})
+- Facebook [Amek](https://www.facebook.com/ameeek.code/)
